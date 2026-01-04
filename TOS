@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Terms of Service</title>
+    <style>
+        body { max-width: 800px; margin: 50px auto; font-family: Arial; padding: 20px; }
+        h1 { color: #333; }
+        p { line-height: 1.6; }
+    </style>
+</head>
+<body>
+    <h1>Terms of Service</h1>
+    <p><strong>Last Updated:</strong> January 3, 2026</p>
+    
+    <h2>1. Service Description</h2>
+    <p>This automated video creation service generates AI-powered content and posts it to TikTok on behalf of authorized users.</p>
+    
+    <h2>2. Acceptance</h2>
+    <p>By connecting your TikTok account, you agree to these terms.</p>
+    
+    <h2>3. User Responsibilities</h2>
+    <ul>
+        <li>You own all content posted through this service</li>
+        <li>You are responsible for content compliance with TikTok's policies</li>
+        <li>You must have rights to any media used</li>
+    </ul>
+    
+    <h2>4. Service Usage</h2>
+    <ul>
+        <li>Service is provided "as-is"</li>
+        <li>We reserve the right to modify or discontinue service</li>
+        <li>No guarantee of uninterrupted service</li>
+    </ul>
+    
+    <h2>5. Privacy</h2>
+    <p>We do not store or share your TikTok credentials beyond what's necessary for posting content.</p>
+    
+    <h2>6. Liability</h2>
+    <p>You are solely responsible for content posted to your TikTok account.</p>
+    
+    <h2>7. Termination</h2>
+    <p>You may disconnect service at any time through TikTok settings.</p>
+    
+    <p><strong>Contact:</strong> your-email@example.com</p>
+</body>
+</html>
